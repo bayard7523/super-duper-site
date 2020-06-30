@@ -1,0 +1,523 @@
+2020-06-29 20:19:10 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:19:10 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'engschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://engschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'engschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/engschool/web/index.php'
+    'REMOTE_PORT' => '59573'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593451150.606
+    'REQUEST_TIME' => 1593451150
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:26:00 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:25:57 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'ag1lukum6f9ocmvds2kf7741bh5vbt06'
+    '_csrf' => 'f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'engschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://engschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=ag1lukum6f9ocmvds2kf7741bh5vbt06; _csrf=f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'engschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/engschool/web/index.php'
+    'REMOTE_PORT' => '59658'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593451556.485
+    'REQUEST_TIME' => 1593451556
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:26:36 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:26:36 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'ag1lukum6f9ocmvds2kf7741bh5vbt06'
+    '_csrf' => 'f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'engschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://engschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=ag1lukum6f9ocmvds2kf7741bh5vbt06; _csrf=f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'engschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/engschool/web/index.php'
+    'REMOTE_PORT' => '59704'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593451596.005
+    'REQUEST_TIME' => 1593451596
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:30:52 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\engschool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\engschool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:30:52 [127.0.0.1][-][ag1lukum6f9ocmvds2kf7741bh5vbt06][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'ag1lukum6f9ocmvds2kf7741bh5vbt06'
+    '_csrf' => 'f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'engschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_DNT' => '1'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://engschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=ag1lukum6f9ocmvds2kf7741bh5vbt06; _csrf=f05bdefb3901f032836edeb1bc4e7f5bf9d81d140b82d859e0a78f2da3f943c6a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22-LWMeGfM68BoIZcs7LaM_bvNprwPnp5z%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'engschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/engschool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/engschool/web/index.php'
+    'REMOTE_PORT' => '59764'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593451852.536
+    'REQUEST_TIME' => 1593451852
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:41:26 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:41:26 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SERVER = [
+    'HTTP_HOST' => 'englishschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://englishschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'englishschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool/web/index.php'
+    'REMOTE_PORT' => '59916'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593452486.609
+    'REQUEST_TIME' => 1593452486
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:45:02 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/". in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/', Array)
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:45:02 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'englishschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://englishschool/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => '_csrf=616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'englishschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool/web/index.php'
+    'REMOTE_PORT' => '59984'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593452702.197
+    'REQUEST_TIME' => 1593452702
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:45:15 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/Teachers.html". in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/Teachers.ht...', Array)
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:45:15 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'englishschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://englishschool/web/'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => '_csrf=616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'englishschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool/web/index.php'
+    'REMOTE_PORT' => '60005'
+    'REDIRECT_URL' => '/web/Teachers.html'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/Teachers.html'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593452715.026
+    'REQUEST_TIME' => 1593452715
+    'argv' => []
+    'argc' => 0
+]
+2020-06-29 20:45:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "web/index.html". in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('web/index.html', Array)
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 D:\Programs\openserver\OSPanel\domains\EnglishSchool\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 D:\Programs\openserver\OSPanel\domains\EnglishSchool\web\index.php(12): yii\base\Application->run()
+#2 {main}
+2020-06-29 20:45:18 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C\";}'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'englishschool'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_DNT' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 YaBrowser/20.6.1.151 Yowser/2.5 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_REFERER' => 'http://englishschool/web/Teachers.html'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'uk,ru;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => '_csrf=616d1ea619903cf113e33d7a34cc98d20c274b734bdbe7c4ff3150342fa277f1a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22M1KzMoRSVonM7BGUoEGJy9RtL87uIi8C%22%3B%7D'
+    'PATH' => 'd:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\ext;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64\\pear\\bin;d:\\programs\\openserver\\ospanel\\modules\\php\\PHP_7.1-x64;d:\\programs\\openserver\\ospanel\\modules\\wget\\bin;d:\\programs\\openserver\\ospanel\\modules\\git;d:\\programs\\openserver\\ospanel\\modules\\git\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\mingw\\bin;d:\\programs\\openserver\\ospanel\\modules\\git\\cmd;d:\\programs\\openserver\\ospanel\\modules\\database\\MariaDB-10.3-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64\\bin;d:\\programs\\openserver\\ospanel\\modules\\http\\Apache_2.4-PHP_7.0-7.1-x64;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\system32\\Wbem;C:\\Windows\\SysWOW64'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'englishschool'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'D:/Programs/openserver/OSPanel/domains/EnglishSchool/web/index.php'
+    'REMOTE_PORT' => '59984'
+    'REDIRECT_URL' => '/web/index.html'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/web/index.html'
+    'SCRIPT_NAME' => '/web/index.php'
+    'PHP_SELF' => '/web/index.php'
+    'REQUEST_TIME_FLOAT' => 1593452718.324
+    'REQUEST_TIME' => 1593452718
+    'argv' => []
+    'argc' => 0
+]
